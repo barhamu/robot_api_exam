@@ -1,0 +1,24 @@
+$ ruby robot_api_client.rb json someId somePassword
+[
+  {
+    "code": "ruby",
+    "displayName": "Ruby"
+  },
+  {
+    "code": "python",
+    "displayName": "Python"
+  },
+  {
+    "code": "java",
+    "displayName": "Java"
+  },
+  {  
+    "code":"html",
+    "displayName":"html"
+   },
+   {
+     "code":"css",
+     "displayName":"css"
+   }
+   
+]

@@ -10,7 +10,7 @@ services:
     image: postgres:13-alpine
     command: ["postgres", "-c", "fsync=false", "-c", "full_page_writes=off"]
     environment:
-      POSTGRES_PASSWORD: password
+      POSTGRES_PASSWORD: barhamu
     volumes:
       - type: volume
         source: db-store

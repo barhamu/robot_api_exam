@@ -23,6 +23,10 @@ $ ruby robot_api_client.rb json someId somePassword
     "code": "java",
     "displayName": "Java"
   }
+  {
+    "code":"html",
+    "displayName": "html"
+   }
 ]
 ```
 
